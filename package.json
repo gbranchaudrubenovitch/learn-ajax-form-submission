@@ -1,0 +1,20 @@
+{
+  "name": "client-side-form",
+  "version": "1.0.0",
+  "description": "sample of client-side form submission from a static file.",
+  "repository": "gbranchaudrubenovitch/learn-ajax-form-submission",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "multer": "^1.1.0"
+  },
+  "jshintConfig": {
+    "esnext": true
+  }
+}
